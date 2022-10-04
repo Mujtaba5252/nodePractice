@@ -1,0 +1,26 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "practice purpose",
+  "main": "node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "practice"
+  ],
+  "author": "mujtaba",
+  "license": "ISC",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "express": "^4.18.1",
+    "mongodb": "^4.9.1",
+    "mongoose": "^6.6.0",
+    "nodemailer": "^6.7.8",
+    "nodemailer-express-handlebars": "^5.0.0",
+    "nodemon": "^2.0.19",
+    "sendmail": "^1.6.1",
+    "simple-node-logger": "^21.8.12"
+  }
+}
